@@ -1,0 +1,9 @@
+C:\Users\pauld\Documents\GitHub\SqlesDB\SqlesDB\bin\Debug\SqlesDB.dacpac
+C:\Users\pauld\Documents\GitHub\SqlesDB\SqlesDB\bin\Debug\SqlesDB.dll
+C:\Users\pauld\Documents\GitHub\SqlesDB\SqlesDB\bin\Debug\SqlesDB.pdb
+C:\Users\pauld\Documents\GitHub\SqlesDB\SqlesDB\obj\Debug\SqlesDB.dll
+C:\Users\pauld\Documents\GitHub\SqlesDB\SqlesDB\obj\Debug\SqlesDB.pdb
+C:\Users\pauld\Documents\GitHub\SqlesDB\SqlesDB\obj\Debug\Model.xml
+C:\Users\pauld\Documents\GitHub\SqlesDB\SqlesDB\obj\Debug\refactor.xml
+C:\Users\pauld\Documents\GitHub\SqlesDB\SqlesDB\obj\Debug\postdeploy.sql
+C:\Users\pauld\Documents\GitHub\SqlesDB\SqlesDB\obj\Debug\predeploy.sql
